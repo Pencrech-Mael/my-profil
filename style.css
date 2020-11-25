@@ -1,0 +1,47 @@
+h2{
+	color: red;
+	font-size: 28px;
+}
+h1{
+	font-size: 32px;
+}
+
+a{
+	text-decoration: none;
+	color: blue;
+	font-size: 18px
+}
+
+p{
+	font-size: 18px
+}
+
+li{
+	font-size: 18px
+}
+
+
+.qs{
+	text-align: center;
+	background-color: white;
+	margin: 70px;
+	padding: 25px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 10px;
+	font-family: Verdana Pro;
+}
+
+body{
+	background-color: #9fb4df;
+}
+
+.container {
+	width: 1150px;
+	margin: 0 auto;
+}
+
+.img{
+	width: 180px;
+	border-radius: 50%;
+
+}
